@@ -1,0 +1,10 @@
+google-adk
+google-genai
+fastapi
+uvicorn[standard]
+firebase-admin
+googlemaps
+python-dotenv
+pydantic
+websockets
+python-dateutil
